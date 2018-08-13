@@ -1,0 +1,130 @@
+<template id="main-footer">
+  <head>
+    <link rel="stylesheet" href="../css/style.css" type="text/css" media="screen,projection">
+    <link rel="stylesheet" href="../css/responsive.css" type="text/css" media="screen,projection"> 
+    <link rel="stylesheet" href="../css/toastr.min.css" type="text/css" media="screen,projection">
+  </head>
+  <div class="boxed_wrapper">
+    <footer class="main-footer">
+      <!--Widgets Section-->
+      <div class="widgets-section">
+        <div class="container">
+          <div class="row">
+            <!--Big Column-->
+            <div class="big-column col-md-6 col-sm-12 col-xs-12">
+              <div class="row clearfix">
+
+                <!--Footer Column-->
+                <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                  <div class="footer-widget about-widget">
+                    <h3 class="footer-title">About Yanfoma</h3>
+                    <div class="widget-content">
+                      <div class="text-justify"><p>Yanfoma is a business startup founded in September 2016 which provide technology services and develop innovative products for those who have an organization (for profit or non-profit) and who need technology to take decisions, grow their activities and measure their performances, those who have a te...</p> </div>
+                      <div class="link">
+                        <a href="https://yanfoma.tech/en/about-us/who-are-we" class="default_link">More About us <i class="fa fa-angle-right"></i></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <!--Footer Column-->
+                <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                  <div class="footer-widget links-widget">
+                    <h3 class="footer-title">services</h3>
+                    <div class="widget-content">
+                      <ul class="list">
+                        <li><a href="https://yanfoma.tech/en/service/web">      partnership</a></li>
+                        <li><a href="https://yanfoma.tech/en/service/web">      Web</a></li>
+                        <li><a href="https://yanfoma.tech/en/service/medias">   Medias</a></li>
+                        <li><a href="https://yanfoma.tech/en/service/analytics">  Analytics</a></li>
+                        <li><a href="https://yanfoma.tech/en/service/referral"> Referral</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!--Big Column-->
+            <div class="big-column col-md-6 col-sm-12 col-xs-12">
+              <div class="row clearfix">
+
+
+                <!--Footer Column-->
+                <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                  <div class="footer-widget contact-widget">
+                    <h3 class="footer-title">Contact us</h3>
+                    <div class="widget-content">
+                      <ul class="contact-info">
+                        <li><span class="icon-signs"></span>Address: Main Space, Taiwan New Taipei city, Banqiao district, Xianmian Boulevard, Alley 33, Lane 6, No 6</li>
+                        <li><span class="icon-phone-call"></span>Phone: +886 9895-97235</li>
+                        <li><span class="icon-e-mail-envelope"></span>Email: <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="7b12151d143b021a151d14161a550f1e1813">[email&#160;protected]</a></li>
+                      </ul>
+                    </div>
+                    <ul class="social">
+                      <li><a href="https://www.facebook.com/yanfoma/"                         target="_blank"><i class="fa fa-facebook"></i></a></li>
+                      <li><a href="https://www.youtube.com/channel/UCXm7arljVJbdFIIEVdnt-LQ"  target="_blank"><i class="fa fa-youtube"></i></a></li>
+                      <li><a href="https://plus.google.com/u/0/100764898996932239647"         target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                      <li><a href="https://www.linkedin.com/company-beta/22333242"            target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                    </ul>
+                  </div>
+                </div>
+
+                <!--Footer Column-->
+                <div class="footer-column col-md-6 col-sm-6 col-xs-12">
+                  <div class="footer-widget news-widget">
+                    <h3 class="footer-title">Newsletter</h3>
+                    <div class="widget-content">
+                      <form class="subscribe-form" action="https://yanfoma.tech/en/subscribe" enctype="multipart/form-data" method="post">
+                        <input type="hidden" name="_token" value="H5KBeI06i8KsOTQzKL0VNPpjZc12PqqJXha3kepj">
+                        <div class="col-md-12  col-sm-12 col-xs-12" style="margin-bottom: 20px;">
+                          <input name="name" value="" type="text" placeholder="Your Name" required>
+                        </div>
+                        <div class="col-md-12 col-sm-12 col-xs-12" style="margin-bottom: 20px;">
+                          <input name="email" value="" type="email" placeholder="Your Email" required>
+                        </div>
+                        <div class="col-md-12  col-sm-12 col-xs-12" style="margin-bottom: 20px;">
+                          <button type="submit" class="thm-btn" >Subscribe</button>
+                        </div>
+                      </form>
+                    </div>
+
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <!--Footer Bottom-->
+      <section class="footer-bottom">
+        <div class="container">
+          <div class=" copy-text center">
+            <p>Copyrights © Since 2016 All Rights Reserved. <a href="https://yanfoma.tech/en/en"> Yanfoma.</a></p>
+          </div><!-- /.pull-right -->
+        </div><!-- /.container -->
+      </section>
+
+    </footer>
+
+    <!-- Scroll Top Button -->
+    <button class="scroll-top tran3s color1_bg">
+      <span class="fa fa-angle-up"></span>
+    </button>
+    <!--Start of Tawk.to Script-->
+    <script data-cfasync="false" src="/cdn-cgi/scripts/f2bf09f8/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">
+      var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+      (function(){
+      var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+      s1.async=true;
+      s1.src='https://embed.tawk.to/5a9f8a4b4b401e45400d79ae/default';
+      s1.charset='UTF-8';
+      s1.setAttribute('crossorigin','*');
+      s0.parentNode.insertBefore(s1,s0);
+      })();
+    </script>
+  </div>
+</template>
+
+<script src="../js/footer.js"></script>
